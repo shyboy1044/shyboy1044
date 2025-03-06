@@ -1,8 +1,8 @@
-# Your Go-To Full-Stack Developer - React Native | JS/TS/Python
+# Your Go-To Full-Stack Developer - Flutter | JS/Python/C#
 
 ## Hello Everyone, Welcome to my profile. 
 
--  ![React Native](https://img.shields.io/badge/React%20Native-Flutter%20-red)
+-  ![Flutter](https://img.shields.io/badge/React%20Native-Flutter%20-red)
 -  ![React](https://img.shields.io/badge/React-MERN%2C%20Next.js%20-green) ![Vue](https://img.shields.io/badge/Vue-MEVN%2C%20Nuxt.js%20-green) ![Angular](https://img.shields.io/badge/Angular-MEAN%2C%20-green)
 -  ![Headless CMS](https://img.shields.io/badge/Headless%20CMS-Svelte%2C%20Payload%20CMS%20-blue)
 -  ![Django](https://img.shields.io/badge/Django-Golang-purple)
