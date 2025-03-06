@@ -9,6 +9,27 @@
 -  ![UI Frameworks](https://img.shields.io/badge/UI%20Frameworks-Tailwind%20CSS%2C%20Material%20UI%20-yellow)
 -  ![Databases](https://img.shields.io/badge/Databases-Firebase%2C%20Supabase%2C%20MongoDB%20PostgreSQL%20MySQL%20-blue)
 
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stardev913&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stardev913&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+### 🐍 My Contribution Graph
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/StarDev913/StarDev913/output/snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/StarDev913/StarDev913/output/snake.svg#gh-light-mode-only)
+
+
+### 📈 Profile Views
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/StarDev913/count.svg?" alt="Visitor Counter" />
+</div>
+
+
 ## I am not looking for opportunity. I am your opportunity.
 
 <h2>More about my skillset</h2>
