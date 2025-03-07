@@ -14,8 +14,8 @@
 
 ### 🐍 My Contribution Graph
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/shyboy1044/shyboy1044/output/snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/shyboy1044/shyboy1044/output/snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/StarDev913/StarDev913/output/snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/StarDev913/StarDev913/output/snake.svg#gh-light-mode-only)
 
 
 ### 📈 Profile Views
