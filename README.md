@@ -1,4 +1,4 @@
-# Your Go-To Full-Stack Developer - Flutter | JS/Python/C#
+# Your Go-To Full-Stack Developer - Python | JS/Go/C#
 
 | My Stacks | Me |
 | --------- | -----------|
