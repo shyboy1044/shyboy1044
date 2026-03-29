@@ -22,8 +22,8 @@
       <br>Next.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=svelte" width="45" height="45" alt="svelte" />
-      <br>svelte
+      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="go" />
+    <br>go
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
