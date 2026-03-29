@@ -5,25 +5,6 @@
 |<div>  -  ![Flutter](https://img.shields.io/badge/React%20Native-Flutter%20-red)<br/> -  ![React](https://img.shields.io/badge/React-MERN%2C%20Next.js%20-green) <br/>   -  ![Vue](https://img.shields.io/badge/Vue-MEVN%2C%20Nuxt.js%20-green) <br/>  -  ![Angular](https://img.shields.io/badge/Angular-MEAN%2C%20-green) <br/>  -  ![Headless CMS](https://img.shields.io/badge/Headless%20CMS-Svelte%2C%20Payload%20CMS%20-blue) <br/>  -  ![Django](https://img.shields.io/badge/Django-Golang-purple) <br/> -  ![UI Frameworks](https://img.shields.io/badge/UI%20Frameworks-Tailwind%20CSS%2C%20Material%20UI%20-yellow) <br/>  -  ![Databases](https://img.shields.io/badge/Databases-Firebase%2C%20Supabase%2C%20MongoDB%20PostgreSQL%20MySQL%20-blue) </div>| <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br /> |
     
   
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyboy1044&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shyboy1044&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-### 🐍 My Contribution Graph
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/StarDev913/StarDev913/output/snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/StarDev913/StarDev913/output/snake.svg#gh-light-mode-only)
-
-
-### 📈 Profile Views
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/shyboy1044/count.svg?" alt="Visitor Counter" />
-</div>
-
 
 ## I am not looking for opportunity. I am your opportunity.
 
